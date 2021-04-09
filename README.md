@@ -26,9 +26,9 @@ _______________________________________________________________
 - 3️⃣ Put the `Tank.yaml` file to your ML-Agents folder into `.\config\ppo`.
 ### On Unity
 - 4️ Open the Unity Project `Project` in ML-Agents repo.
-- 5️ Import package > Custom package `Tank.unitypackage` file.
+- 5️ Download the package [here](https://drive.google.com/file/d/1VPj6EcI38ZHRe1G5zEwzejT1KBufkyZK/view?usp=sharing)
+- 6️⃣ Import package > Custom package `Tank.unitypackage` file.
 - Enable the built in package 'Particle System' and 'Audio' in the Package Manager if you have some Audio and Particle errors.
-- 6️⃣ 
  
 ### If you want to train
 2 scenes:
